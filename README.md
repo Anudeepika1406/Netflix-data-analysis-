@@ -1,9 +1,5 @@
-Here is a structured overview of the Netflix Content Analysis Project based on the provided document.
 
-Project Overview
-This is a 
-
-data analysis project focused on the Netflix content catalog (netflix1.csv). The project aims to provide valuable insights into content strategy, audience demographics, and production trends.
+This is a data analysis project focused on the Netflix content catalog (netflix1.csv). The project aims to provide valuable insights into content strategy, audience demographics, and production trends.
 
 
 The core goal is to analyze the content catalog to uncover key trends in content type, production, and distribution over time. This analysis will ultimately provide 
@@ -13,7 +9,7 @@ strategic recommendations for content investment and geographical expansion. The
 8,790 rows and 10 columns.
 
 
-Tools and Techniques
+**Tools and Techniques**
 The project uses a mix of tools for the complete data pipeline:
 
 
@@ -25,11 +21,11 @@ SQL: Used for querying and aggregating data.
 
 Python (Pandas): Employed for Deeper Exploratory Data Analysis (EDA) and forecasting.
 
-Process
+**Process**
 The project is executed in three main phases:
-
+**
 1. Data Cleaning and Pre-processing 
-
+**
 The initial steps revealed a clean structure but required several transformations for effective analysis. Key cleaning actions include:
 
 
@@ -54,7 +50,7 @@ Duration Parsing: Splitting the duration column into Duration_Value (numeric) an
 Genre Expansion: Splitting the comma-separated listed_in (genre) entries into individual rows for genre-level analysis.
 
 
-2. Data Analysis and Visualization 
+**2. Data Analysis and Visualization **
 
 The analysis focuses on five key areas to generate impactful visualizations:
 
@@ -75,9 +71,8 @@ Movie Duration	Distribution of Movie Durations (in minutes).
 Find the optimal/most common movie runtime.
 
 
-Export to Sheets
-3. Project Report Structure 
-
+****3. Project Report Structure **
+**
 The final output is a comprehensive report structured to deliver maximum strategic value to stakeholders. The structure includes:
 
 
@@ -113,7 +108,7 @@ Geographical Concentration: Content sourcing is highly concentrated, with the Un
 
 Genre Popularity: The high prevalence of International TV Shows, Dramas, and Comedies highlights the core genres driving current audience engagement.
 
-Strategic Recommendations
+**Strategic Recommendations**
 The analytical findings translate into specific business actions for content stakeholders:
 
 
