@@ -72,7 +72,7 @@ Movie Duration	Histogram
 Find the optimal/most common movie runtime.
 
 
-Export to Sheets
+
 🚀 Strategic Recommendations
 Based on the analytical findings, the project concludes with strategic recommendations to optimize content spend and market reach:
 
