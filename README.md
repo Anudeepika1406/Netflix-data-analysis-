@@ -1,9 +1,9 @@
-🍿 Netflix Content Catalog Data Analysis
+🍿 Netflix Content Catalog Data Analysis :
 This project presents a comprehensive data analysis of the 
 
 Netflix content catalog (using the netflix1.csv dataset) to uncover key trends and inform strategic business decisions regarding content investment and geographical expansion.
 
-🎯 Project Goals
+🎯 Project Goals :
 The primary objective was to dissect the platform's content strategy by focusing on five core areas:
 
 
@@ -22,7 +22,7 @@ Genre Popularity: Determine the most prevalent genres in the catalog.
 
 Movie Duration: Find the optimal/most common movie runtime.
 
-💡 Key Findings Snapshot
+💡 Key Findings Snapshot:
 The analysis of the 8,790-title catalog yielded critical insights for stakeholders, which are translated into actionable recommendations:
 
 
@@ -40,7 +40,7 @@ United States and India are the indisputable leaders in content production, reve
 
 Genre Trends: International TV Shows, Dramas, and Comedies are the core genres driving current audience engagement and content volume.
 
-🛠️ Tools and Techniques
+🛠️ Tools and Techniques:
 The project leveraged a modern data analysis stack to perform data cleaning, deep exploratory data analysis (EDA), modeling, and visualization:
 
 
@@ -52,7 +52,7 @@ Data Querying & Aggregation: SQL
 
 Deep EDA & Forecasting: Python (Pandas) 
 
-📂 Analysis and Visualization Highlights
+📂 Analysis and Visualization Highlights:
 The project report is built around five impactful visualizations:
 
 Focus Area	Visualization	Insight Goal
@@ -73,7 +73,7 @@ Find the optimal/most common movie runtime.
 
 
 
-🚀 Strategic Recommendations
+🚀 Strategic Recommendations:
 Based on the analytical findings, the project concludes with strategic recommendations to optimize content spend and market reach:
 
 
