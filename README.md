@@ -23,7 +23,7 @@ Genre Popularity: Determine the most prevalent genres in the catalog.
 
 Movie Duration: Find the optimal/most common movie runtime.
 
-**<h2>💡 Key Findings Snapshot:**
+**<h2>💡 Key Findings:**
 
 <h3>The analysis of the title catalog yielded critical insights for stakeholders, which are translated into actionable recommendations:
 
@@ -88,7 +88,6 @@ Content Strategy: Recommend a target shift in the investment ratio (e.g., from 7
 Market Expansion: Suggest high-potential targets like Brazil, Turkey, or Mexico for original content co-production, diversifying away from over-reliance on the US and India.
 
 
-Content Optimization: Advise on prioritizing investment in high-performing genres (like International TV Shows) and targeting a specific optimal movie runtime derived from the duration analysis.
 
 
 
