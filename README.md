@@ -1,10 +1,11 @@
-🍿 Netflix Content Catalog Data Analysis :
-This project presents a comprehensive data analysis of the 
+**<h1>🍿 Netflix Content Catalog Data Analysis :** 
 
+<h3>This project presents a comprehensive data analysis of the 
 Netflix content catalog (using the netflix1.csv dataset) to uncover key trends and inform strategic business decisions regarding content investment and geographical expansion.
 
-🎯 Project Goals :
-The primary objective was to dissect the platform's content strategy by focusing on five core areas:
+**<h2>🎯 Project Goals :**
+
+<h3>The primary objective was to dissect the platform's content strategy by focusing on five core areas:
 
 
 
@@ -22,8 +23,9 @@ Genre Popularity: Determine the most prevalent genres in the catalog.
 
 Movie Duration: Find the optimal/most common movie runtime.
 
-💡 Key Findings Snapshot:
-The analysis of the 8,790-title catalog yielded critical insights for stakeholders, which are translated into actionable recommendations:
+**<h2>💡 Key Findings Snapshot:**
+
+<h3>The analysis of the title catalog yielded critical insights for stakeholders, which are translated into actionable recommendations:
 
 
 
@@ -40,8 +42,9 @@ United States and India are the indisputable leaders in content production, reve
 
 Genre Trends: International TV Shows, Dramas, and Comedies are the core genres driving current audience engagement and content volume.
 
-🛠️ Tools and Techniques:
-The project leveraged a modern data analysis stack to perform data cleaning, deep exploratory data analysis (EDA), modeling, and visualization:
+**<h2>🛠️ Tools and Techniques:**
+
+<h3>The project leveraged a modern data analysis stack to perform data cleaning, deep exploratory data analysis (EDA), modeling, and visualization:
 
 
 Data Cleaning & Visualization: Power BI / Excel 
@@ -52,8 +55,9 @@ Data Querying & Aggregation: SQL
 
 Deep EDA & Forecasting: Python (Pandas) 
 
-📂 Analysis and Visualization Highlights:
-The project report is built around five impactful visualizations:
+**<h2>📊 Analysis and Visualization Highlights:**
+
+<h3>The project report is built around five impactful visualizations:
 
 Focus Area	Visualization	Insight Goal
 Content Mix	Pie Chart & Stacked Bar Chart	
@@ -73,8 +77,9 @@ Find the optimal/most common movie runtime.
 
 
 
-🚀 Strategic Recommendations:
-Based on the analytical findings, the project concludes with strategic recommendations to optimize content spend and market reach:
+**<H2>🚀 Strategic Recommendations:**
+
+<h3>Based on the analytical findings, the project concludes with strategic recommendations to optimize content spend and market reach:
 
 
 Content Strategy: Recommend a target shift in the investment ratio (e.g., from 70/30 Movie/TV Show to 60/40) to capitalize on the success and audience retention of TV series.
