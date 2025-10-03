@@ -88,7 +88,7 @@ Content Strategy: Recommend a target shift in the investment ratio (e.g., from 7
 Market Expansion: Suggest high-potential targets like Brazil, Turkey, or Mexico for original content co-production, diversifying away from over-reliance on the US and India.
 
 
-
+![image Alt](https://github.com/Anudeepika1406/Netflix-data-analysis-/blob/353580c019bd48b33d1f65d05022766f2d57d2f9/WhatsApp%20Image%202025-10-03%20at%2018.32.14_96a675e2.jpg)
 
 
 
